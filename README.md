@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/ysemlal" alt="ysemlal's 42 stats" />
+    <img src="https://badge.mediaplus.ma/kettlebells/ysemlali?1337Badge=off" alt="ysemlali's 42 stats" />
   </a>
 </div>
 
@@ -41,9 +41,6 @@ currently: "Looking for my next challenge"
 philosophy: "Ship first, polish forever."
 ```
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusufsemlali&label=Profile%20views&color=E6B450&style=flat-square" alt="profile views" />
-</div>
 
 ---
 
